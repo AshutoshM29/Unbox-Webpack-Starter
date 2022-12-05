@@ -18,7 +18,7 @@ const App = () => {
 
   return (
     <div id="app">
-      <img src={Logo} alt="" />
+      <img src={Logo} alt="hero-logo" />
       <h1>Hello!</h1>
       <h2>Unbox your Webpack!</h2>
       <button onClick={startLoader}>Start loader</button>
