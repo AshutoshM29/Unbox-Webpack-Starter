@@ -25,3 +25,4 @@ $ npm start
 
 ## Live Preview
 
+![screen-capture (6)](https://user-images.githubusercontent.com/89376505/205883251-ba5a391b-0f2d-4334-b3b0-5500d0ffbcd5.gif)
